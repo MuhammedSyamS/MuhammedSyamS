@@ -14,14 +14,11 @@ I enjoy turning ideas into real, user-friendly digital experiences — from poli
 
 ## Featured Projects
 
-### Clartly
-E-commerce website focused on shopping experience, product UX, and modern frontend flows.
+### Samudhra Water Solutions
+Real-world business website focused on water services, trust, and customer-friendly digital experiences.
 
-### Clartly-BE
-Backend system supporting the e-commerce experience with core business logic and data handling.
-
-### HighP-Agent
-AI-powered project exploring agent-driven workflows and practical intelligent automation.
+### Style with J
+Modern styling platform and design system project showcasing creative design implementation and user-focused interfaces.
 
 ### Invoice
 Business-focused application built for invoice management and workflow efficiency.
@@ -60,4 +57,4 @@ Multiple full-stack e-commerce builds demonstrating both frontend experience and
 
 Turning practical ideas into polished digital products with strong engineering quality and thoughtful user experience.
 
-> “I build products that feel good and work well.”
+> "I build products that feel good and work well."
